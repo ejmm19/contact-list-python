@@ -1,0 +1,5 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+PyMySQL==1.0.3
+migrate==0.3.8
+Flask-Migrate~=4.0.7
